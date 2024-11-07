@@ -8,15 +8,15 @@ The names of the needed variables are read from `.env.example`, which should be 
 # Installation
 
 ```
-npm install dotenv-safe
+npm install dotenv-safe dotenv
 ```
 
 ```
-pnpm install dotenv-safe
+pnpm install dotenv-safe dotenv
 ```
 
 ```
-yarn add dotenv-safe
+yarn add dotenv-safe dotenv
 ```
 
 # Example
